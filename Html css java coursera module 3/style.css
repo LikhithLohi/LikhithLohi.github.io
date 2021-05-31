@@ -1,7 +1,7 @@
 *{
 	margin: 0;
 	padding: 0;
-
+	
 }
 .navbar{
 
@@ -15,7 +15,7 @@ body{
 }
 .glyphicon{
 	font-size: 30px;
-	color:#61122F;
+	color:#61122F; 
 }
 
 .center{
@@ -38,5 +38,5 @@ h2{
 	color: #61122F;
 }
 .navbar-brand{
-font-size: 30px;
+font-size: 30px;	
 }
